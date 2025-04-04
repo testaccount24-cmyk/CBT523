@@ -1,0 +1,14 @@
+2025-04-04 11:08:14.975777 - Received CBT.V508.FILE523.PDS from FILE523.XMI 
+2025-04-04 11:08:14.976725 - Found $$$$$$IX.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$$$IX
+2025-04-04 11:08:14.976895 - Found $$$$$DOC.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$$DOC
+2025-04-04 11:08:14.977056 - Found $$$$INST.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$INST
+2025-04-04 11:08:14.977188 - Found $$$$SAMP.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$SAMP
+2025-04-04 11:08:14.977313 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$#DATE
+2025-04-04 11:08:14.977440 - Found $$$CHANG.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$CHANG
+2025-04-04 11:08:14.977580 - Found $$NOTE1.bin (application/octet-stream) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE1
+2025-04-04 11:08:14.977712 - Found $$NOTE2.eml (message/rfc822) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE2
+2025-04-04 11:08:14.977834 - Found $$NOTE3.eml (message/rfc822) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE3
+2025-04-04 11:08:14.977964 - Found $$NOTE4.eml (message/rfc822) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE4
+2025-04-04 11:08:14.978096 - Found @FILE523.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/@FILE523
+2025-04-04 11:08:14.978568 - Found SMFSLCT.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/SMFSLCT
+2025-04-04 11:08:14.978836 - Found ZSMFSLCT.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/ZSMFSLCT
